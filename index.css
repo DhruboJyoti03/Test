@@ -31,11 +31,19 @@ h1{
 .experience{
     padding:30px;
     margin:30px;
-    background-color:rgb(238,251,255);
+    background-color:rgb(0,251,255);
     border-radius:20px;
 }
 .experience-item{
     padding:10px;
     border-left:1px solid rgba(137,130,247,.2);
 }
-
+.education{
+    padding:30px;
+    margin:30px;
+    background-color:rgb(0,251,255);
+    border-radius:20px;
+.education-item{
+    padding:10px;
+    border-left:1px solid rgba(137,130,247,.2);
+}
