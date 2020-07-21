@@ -1,0 +1,63 @@
+﻿body{
+    font-family:sans serif;
+    color:#777777;
+    line-height:26px;
+}
+.purple-color{
+   color: #8845f4;
+   }
+.half-width{
+    width:50%;
+    float:left;
+}
+.side-img{
+    width:50%;
+    padding-left:25%;
+}
+.primary-btn{
+    color:white;
+    background-color:#8845f4;
+    padding:13px 42px;
+    border-radius:20px;
+    text-decoration:none;
+}
+h1{
+    font-size:2em;
+}
+.container{
+    padding-left:5%;
+    display:inline-block ;
+}<!DOCTYPE html>
+<html>
+    <head>
+<title> Dhrubo Jyoti World </title>
+<link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+    
+ <section class="container">
+ <div class="half-width">
+ <h1> Welcome to <span class="purple-color">Dhrubo Jyoti</span> World</h1>
+   <h3> Building Climber & Train Stopper </h3>
+    <p> You might see my jumping, climbing building & stopping trains. But nobody pays me a dime for that work. That's why I am learning & mastering Web Development. I will not stop untill I become the Web Development Hero. </p>
+    <a class="primary-btn" href="#"> Hire Me </a>
+    </div>
+    </section>
+    <section class="container">
+    <div class="half-width">
+    <img class="side-img" src="images/profile.jpg" alt="">
+    </div>
+    </section>
+    <section class="container">
+    <div class="half-width">
+    <img class="side-img" src="images/working.jpg" alt="">
+    </div>
+    <div class="half-witdh">
+    <h2> BIG DREAM </h2>
+    <h4> Become a Web Developer </h4>
+    <p> I already learned the basic HTML and CSS. I can build any simple website. My goals is to build 3 websites and learn advanced topics. </p>
+    <a class="primary-btn" href="mailto:dhrubojyoti003@gmail.com"> Send Mail</a>
+    </div>
+    </section>
+    </body> 
+</html>
